@@ -1,4 +1,4 @@
 *
 !*.cpp
 !.gitignore
-!auth_system/main.cpp
+!*/
